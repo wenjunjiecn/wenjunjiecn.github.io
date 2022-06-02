@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wenjunjiecn.github.io/sitemap.xml
