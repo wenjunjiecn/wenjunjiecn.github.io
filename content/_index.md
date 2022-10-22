@@ -31,7 +31,7 @@ description: "This is a demo of the Congo theme for Hugo."
 
 ### 📖 &nbsp;What I'm reading
 - 流畅的Python
-- Redis的设计与实现 (Under Planning)
+- Redis的设计与实现
 
 ### 📝 &nbsp;Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/wenjunjie?site=cn)
