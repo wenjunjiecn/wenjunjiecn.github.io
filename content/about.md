@@ -1,6 +1,12 @@
 ---
-title: "Welcome to Congo! :tada:"
-description: "This is a demo of the Congo theme for Hugo."
+# title: "About"
+date: 2022-12-14T19:15:31+08:00
+draft: false
+url: "/about"
+showDate: false
+showAuthor: false
+showReadingTime: false
+showEdit: false
 ---
 
 {{< lead >}}
@@ -19,7 +25,7 @@ description: "This is a demo of the Congo theme for Hugo."
 ✉️ &nbsp;Email: <junjie.wen@outlook.com>\
 🌱 &nbsp;Code Page: [Leetcode](https://leetcode.cn/u/wenjunjie/)
 
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/> -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -34,7 +40,7 @@ description: "This is a demo of the Congo theme for Hugo."
 - Redis的设计与实现
 
 ### 📝 &nbsp;Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/wenjunjie?site=cn) -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/wenjunjie?site=cn)
 
 
 </div>
